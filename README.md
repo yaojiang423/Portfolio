@@ -1,5 +1,5 @@
 # Portfolio
-Yao Jiang's public portfolio for the Telling Stories with Data clas at CMU!
+Yao Jiang's public portfolio for the Telling Stories with Data class at CMU!
 
 # About me
 Made in China, I'm Yao Jiang, a second year Arts Management graduate student from CMU, a mind embracing passion for art and inner data geek. 
