@@ -10,4 +10,5 @@ I hope to learn how to design effective data visualization to make my analysis m
 # Portfolio
 Here are my advantures on my way to explore data visualization!
 ## OECD Data Visualization
-[The original general government debt data visualization](/dataviz2.md)
+[General government debt data visualization from OECD](/dataviz1.md)
+[General government debt data visualization in beeswarm plot](/dataviz2.md)
