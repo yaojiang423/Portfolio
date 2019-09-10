@@ -23,6 +23,7 @@ Source: OCED
 
 
 
+In this assignment, based on the same data on general government debt from OECD, there are three methods of visualization - bar chart, beeswarm plot and area graph. The bar chart could help us to intuitively compare the debt-to-GDP ratio by country in a specific year, but it's hard to show all the data from so many countries in such a long period. In terms of comparing data over time, beeswarm plot and area graph have a better performance on it but neither of them could show the specific ratio data of each year. Although there are no data of ratios provided in the graph, we can analyze the ratio change over year through comparing the size of the dots in beeswarm plot and the areas in the area graph. However the beeswarm plot isn't the best to see the trends, for the countries have relative low debt-to-GDP ratio in years, the dots are so small for people to see the change through the graph. Therefore I chose to use area graph to show the change of debt-to-GDP ratio by country over time. We can see the ratio trend for each country through the upper line of the graphics, and also easily compare the ratios between different countries by year through the height of graphics. 
 
 
 ----
