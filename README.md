@@ -11,3 +11,4 @@ I hope to learn how to design effective data visualization to make my analysis m
 Here are my advantures on my way to explore data visualization!
 ## [OECD Data Visualization](/Dataviz1.md)
 ## [Age-adjusted Death Rates for Selected Major Causes of Death: United States, 1900-2015](/Dataviz2.md)
+## [The documentation of my final project](/final_project_YaoJ.md)
