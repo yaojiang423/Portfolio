@@ -17,19 +17,19 @@ Introduction to the MoMA and the timeline of contemporary art
 ![Intro](WeChat Image_20190924234556.jpg)
 
 2.  MoMA have been collecting more and more artworks from American artists which demonstrate the world center of art shift from Europe to America.
-![Intro](Folder/Nation.PNG)
+![Nation](/Nation.PNG)
 
 
 3.  What will be seen is that art history has been dominated by male artists. There are more female artist going to the front of stage since 1960s, which is also the start of civil right movement.
-![Intro](Folder/Gender.PNG)
+![Gender](Gender.PNG)
 
 
 4.  The collction is having more and more diversity in types of artwork, which show contemporary art is more and more open to all kinds of artwork and always challenge people's opinion about what is art. 
-![Intro](Folder/Type.PNG)
+![Type](Type.PNG)
 
 
 5. Final key takeaways about what the trends in contemporary art history.
-![Intro](Folder/WeChat Image_20190924234622.jpg)
+![Conclusion](WeChat Image_20190924234622.jpg)
 
 
 
