@@ -13,8 +13,9 @@ Museum of Modern Art (MoMA), as one of the largest and most influential museums 
 
 ## Initial sketches
 1. Brief Intro
-![Intro](Folder/WeChat Image_20190924234556.jpg)
 Introduction to the MoMA and the timeline of contemporary art
+![Intro](WeChat Image_20190924234556.jpg)
+
 2.  MoMA have been collecting more and more artworks from American artists which demonstrate the world center of art shift from Europe to America.
 ![Intro](Folder/Nation.PNG)
 
