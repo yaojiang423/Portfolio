@@ -82,18 +82,39 @@ b. How often do you go to see art exhibitions?
 
 c. When looking at this graphic, what is the first thing you see?
 
-
 d. If the graph give you clear information about the difference between modern art and contemporary art, would it be helpful?
 
-
 e. In one word, how would you describe this chart?
-
 
 f. Does the story give you more knowledge about contemporary art and make it more understandable?
 
 
 
+
 4. Findings
+The first interviewee is from MAM program with undergraduate background in art history. She finds the topic is interesting and the story is clear and easy to understand. In the end the presentation also provided some new information about the perspective of gender to her. She is satified with the content and most of charts but she gave me some recommendtaion on the area chart for gender. She mentioned that if the area for women is below the area for men, the chart will make more sense to her. And because my handdrawing heat map is too rough, there is some difficulty to understand it without more explaination.
+
+The second interviewee has a background in enegeering but nearly not background in arts or data visualization. The story is clear and informative to him but he pointed out several place making him confuseing. Because he has never seen a Alluvial diagram, it is hard to him understand the chart. He also recommend me to sort the heatmap in a order to put the artist with showing the most in the exhibitions to be the first one, which is clearer to him.
+
+The third interviewee is from MISM-BIDA, with strong background in data analytics and experience in data visualization. I receive several valuable feedbacks from her. Firstly, she pointed out the biggest mistake I made that is the charts don't have titles, which I totally forgot and so important. Secondly, she recommend me to make only one chart for gender distribution with drawing a line to divide the seperate two phases. Thirdly, she enables me to understand why my alluvia diagram is confusing, that is because the flows doesn't have a specific meaning or present a definte relationship. Forthly, she also recommend to use world cloud to replace the heat map, which may be more visual appealing.
 
 
 5. Changes
+
+a. Area Chart for Gender Distribution
+![areachart](微信图片_20191003150611.jpg)
+
+b. Use bubble chart instead of alluvial diagram
+Art Type Distribution in 1920s-1960s
+![areachart](type1.PNG)
+
+Art Type Distribution in 1960s-2010s
+![areachart](type2.PNG)
+
+c. Use world cloud instead of heatmap
+The most influencial artist in 1920s-1960s
+![areachart](worldcloud1.PNG)
+
+The most influencial artist in 1960s-2020s
+![areachart](Worldcloud2.PNG)
+
