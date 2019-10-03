@@ -41,3 +41,47 @@ The data source is from MoMA's github page https://github.com/MuseumofModernArt/
 ##  Method and medium
 In the final presentation, I will choose to use Shorthand. The storyboard platform is pretty cool, which is more functional than powerproint. With only 1 minutes to present, I think Shorthand will be a idea tool to use. 
 After making sketch with hand drawing and rough data visualization made with Tableau, I will more focus on refining my hypothesis and doing research on how to interpret the trends. Due to the huge body of the dataset I will be work with, there will be a lot work in cleaning the data and organize the data for generating informative and effective charts and conveying the information more clearly.
+
+
+## Wireframe
+To illustrate my analysis of difference between modern art and contemporary art, I will do data visualizations for two different time phase - 1900s-1960s and 1960s-now. By comparing the artworks in modern art period and contemporart art peirod in different perspective, we will finally get an understanding about what's contemporary art from the collection and exhibition history of MoMA.
+1. Comparison on the nationality of artists (treemap)
+![treemap](微信图片_20191003121554.jpg)
+
+
+2. Comparison on the gender of artists (area chart)
+![area chart](微信图片_20191003121632.jpg)
+
+
+3. Comparison on the types of artworks (Alluvial diagram)
+![alluvial diagram](微信图片_20191003121748.jpg)
+
+
+4. Comparison on the most influencial artist (Heatmap)
+![heatmap](微信图片_20191003122636.jpg)
+
+
+
+##  Storyboard
+![1](微信图片_20191003125314.jpg)
+![2](微信图片_20191003125332.jpg)
+
+
+## User research protocols
+1. Target audience: My target audience are the students in our class, who are from different programs of Heinz College. Most of them are from MISM and PPM who may not have much experience and background in art history, and they may have some difficulty to understand the contemporary art. From my presentation, I hope to let everyone in the classroom to have a basic understanding about contemporary art, which could encourage them to go to the museum to see art and care the artworks today.
+
+2. Approach to identifying representative individuals to interview: From the perspective of education background, I will interview three indivisual from MISM, MAM and PPM, which nearly represents all the students in our class. From the perspective of gender, I will interview 2 women and 1 man to represent the gender distrubution (I feel like it is 1:1 in men and women with maybe a little bit more women?). From the perspective of their knowledge background about art, the three interviewees have different scale of knowldge about art.
+
+3. Interview script
+a. Can you tell me more about your education backgroud and your knowldge about art especially about contemporary art?
+b. How often do you go to see art exhibitions?
+c. When looking at this graphic, what is the first thing you see?
+d. If the graph give you clear information about the difference between modern art and contemporary art, would it be helpful?
+e. In one word, how would you describe this chart?
+f. In one sentence, describe what is contemporary art?
+g. Does the story give you more knowledge about contemporary art and make it more understandable?
+
+4. Findings
+
+
+5. Changes
