@@ -109,7 +109,7 @@ Art Type Distribution in 1920s-1960s
 ![areachart](type1.PNG)
 
 Art Type Distribution in 1960s-2010s
-![areachart](type2.PNG)
+![areachart](Type2.PNG)
 
 c. Use world cloud instead of heatmap
 The most influencial artist in 1920s-1960s
