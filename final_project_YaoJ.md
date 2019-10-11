@@ -1,8 +1,11 @@
-## Outline
-### Quick Summary:
+## Part 1
+
+
+### Outline
+#### Quick Summary:
 Museum of Modern Art (MoMA), as one of the largest and most influential museums of modern art in the world, it has been play an important role in developing and collecting modern art from 1920s until now. Based on the data of MoMA's collection, my project will be focus on determine the trends between the artwork they collected and the nationality of the artists or artist gender or the type of artwork. Therefore, provide a new and fun way to see the trends in contemporary art history with the data.
 
-### Project Structure
+#### Project Structure
 1. Introduce the background of MoMA, and give people the context about the contemporary art history.
 2. Look into the trends between the artwork they collected and the nationality of the artists.
 3. Look into the trends between the artwork they collected and the artist's gender.
@@ -11,7 +14,7 @@ Museum of Modern Art (MoMA), as one of the largest and most influential museums 
 
 
 
-## Initial sketches
+### Initial sketches
 1. Brief Intro
 Introduction to the MoMA and the timeline of contemporary art
 ![Intro](WeChat Image_20190924234556.jpg)
@@ -33,14 +36,17 @@ Introduction to the MoMA and the timeline of contemporary art
 
 
 
-## Data 
+### Data 
 I found the collection data from MoMA's github page, which documenting their collecting records from 1920s until now with more than 26,000 objects in total. To deal with the huge dataset, I will clean the data before I using them to generate data visualization. To analyze their collecting trends, I will focus on factors as nationality, gender and type of art to see the change in the numbers of the artworks in the whole time period. Meanwhile, I will compare the trends with the trends in social-ecomoic changes to understand the contemporary art history.
 The data source is from MoMA's github page https://github.com/MuseumofModernArt/collection
 
 
-##  Method and medium
+###  Method and medium
 In the final presentation, I will choose to use Shorthand. The storyboard platform is pretty cool, which is more functional than powerproint. With only 1 minutes to present, I think Shorthand will be a idea tool to use. 
 After making sketch with hand drawing and rough data visualization made with Tableau, I will more focus on refining my hypothesis and doing research on how to interpret the trends. Due to the huge body of the dataset I will be work with, there will be a lot work in cleaning the data and organize the data for generating informative and effective charts and conveying the information more clearly.
+
+
+## Part 2
 
 
 ## Wireframe
@@ -118,3 +124,13 @@ The most influencial artist in 1920s-1960s
 The most influencial artist in 1960s-2020s
 ![areachart](Worldcloud2.PNG)
 
+
+##Part 3
+
+Audience: My target audience are students in our class. Although they have different background in different industry, they are all people who are educated, have curiosity toward knowledge and care about social issue. In order to engage these people who have various knowledge level about art, I hope to make the complex concept about art history easy and clear to them through the tool of data visualization. 
+With my target audience in mind, I chose to only present three findings about the difference between modern art and contemporary art to keep my argument clean and neat, which can allow the audience understand in 1 min. During the process of doing user research, I did the interviews with 3 students from different program. I was really happy that the content of the presentation was interesting to all of them and they all learned something new. But in the final presentation, due to the limitation of time, I had to get rid of some explaination about the background of the changes in the two art phases, which is kind of pity for me no to be able to articulate the whole story.
+
+
+Summary: The start point of my project is data which I found it on Kaggle. I was really surprised that such kind of collection data is actually open source. The difference between modern art and contemporart art had been alwasy confusing for me, although I have sort of background in art history. Therefore, I think it could be a topic for my project, which also alllow me to dig out the answer. When looking into the data, I had serveral idea I wanted to do, like what kinds of topic is most popular among the two art phases, and how many artworks were purchased by MoMA and what are they, but my data skills are too limited to help me realize the ideas. Therefore, I chose to focus on characteristics that I could analyze, and they narrowed down to artist nationality, medium and gender. However, the dataset is huge, and there are some uncompleted information or ununified inputs, which caused the major difficulty for me to use them. Thanks to my roomate from MISM, she helped me to clean some data with Python, and that allowed me to use Tableau to analyze them.  Another difficulty I met was rethinking about the storyline and call to action. After receiving the feedback from my classmates last class, I realized that there was no clear call to action, and my narrative was just telling information but not enough storytelling. Therefore, I spent a lot time to do the research and plotted the storyline. Luckily, I read about a new survey based on data about how little progress the art museum made in last ten year in acquiring more artworks by female artists, which gave me the inspiration to make the story go to emphasizing the gender disparity issue in art world. After all, I, myselft, learned about through this project. I read a lot article and found this new way to learn about art, which is more compelling than any other approach to know the history. I found so much fun there. Also I realize how important it is to have data analytic skill to deal with data in real life, and I am considering to take a Python class next semster.
+
+## [The link to my final presentation on Shorthand](https://carnegiemellon.shorthandstories.com/yaojiangMoMA/index.html)
